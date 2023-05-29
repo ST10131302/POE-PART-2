@@ -1,4 +1,5 @@
-We have updated our app that allows users to enter and manage recipes. The application allows users to enter the details for multiple recipes, including the name, ingredients, and steps. It also provides features such as displaying the recipe list, and selecting a recipe to view. The software calculates and displays the total calories of each recipe and notifies the user if the total calories exceed 300.
+We have updated our app that allows users to enter and manage recipes. There is no limit to how many recipes can be added by the user. The application allows users to enter the details for multiple recipes, including the name, ingredients, and steps. We have also added a step to the recipe inputs, which is to add calories to each ingredient and specify food groups. The app also provides features such as displaying the recipe list and selecting a recipe to view. The software calculates and displays the total calories of each recipe, and it notifies the user if the total calories exceed 300.
+
 
 
 Steps to using the software 
@@ -10,4 +11,3 @@ Steps to using the software
 *Below the task bar there will be a green play button 
 *Click on the green play button 
 *Making a recipe menu will show
-
